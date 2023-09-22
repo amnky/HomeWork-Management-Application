@@ -9,6 +9,12 @@ const Public = () => {
             </header>
             <main className="public__main">
             <h1>Welcome to <span className="nowrap">HomeWork Management Application</span></h1>
+
+            <h4>You can not register yourself, only admin can register you, so for checking my website you can use the following crediantials</h4>
+            <br />
+            <p>To login as admin use admin as username and password , <br />
+            Similarly, for manager and student
+            </p>
             <br />
             <p>Complete info about this website:</p><br />
             <p>Roles: Admin, Manager, Students</p>
